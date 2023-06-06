@@ -1,4 +1,4 @@
-##### Trabalho prático da disciplina de Sistemas Operacionais
+#### Trabalho prático da disciplina de Sistemas Operacionais
 
 Suponha que um grupo de N canibais comam o jantar a partir de uma grande travessa que
 comporta M porções. Quando alguém quer comer, ele ou ela se serve da travessa, a
